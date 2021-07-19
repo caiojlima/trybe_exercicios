@@ -1,6 +1,6 @@
-#Bloco 2 – Git, Github e Internet:
+# Bloco 2 – Git, Github e Internet:
 
-##Git & Github – Entendendo os Comandos
+## Git & Github – Entendendo os Comandos
 
 **Branch** – Uma versão editável do seu código
 
@@ -18,7 +18,7 @@
 
 **Uma explicação mais detalhada da diferença entre esses dois modelos foge do escopo dessa aula, mas nesse momento basta saber que como o SSH nos permite pular a etapa de digitar login e senha do Github a cada comando, será o modelo de autenticação padrão.**
 
-###Comandos:
+### Comandos:
 
 **git init**: cria um repositório Git na pasta a qual se encontra.
  

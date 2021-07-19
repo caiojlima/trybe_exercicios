@@ -1,5 +1,7 @@
 Unix
 Bash
 Javascript
+Html
+CSS
 React
 MySQL

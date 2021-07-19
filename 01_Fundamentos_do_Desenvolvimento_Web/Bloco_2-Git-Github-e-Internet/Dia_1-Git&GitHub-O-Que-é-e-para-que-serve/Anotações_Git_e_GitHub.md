@@ -1,6 +1,6 @@
 # Bloco 2 – Git, Github e Internet:
 
-## Git & Github – Entendendo os Comandos
+## Git & Github – O que é e para que serve:
 
 **Branch** – Uma versão editável do seu código
 

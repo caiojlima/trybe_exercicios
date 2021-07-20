@@ -18,6 +18,16 @@
 
 **Uma explicação mais detalhada da diferença entre esses dois modelos foge do escopo dessa aula, mas nesse momento basta saber que como o SSH nos permite pular a etapa de digitar login e senha do Github a cada comando, será o modelo de autenticação padrão.**
 
+### Autenticação:
+
+
+**Gerando chave SSH**: ssh-keygen -t rsa -b 4096 -C “seuemail@gmail.com”
+
+**Adicionando sua chave SSH ao ssh-agent**: eval “$(ssh-agent -s)” ; ssh-add -/.ssh/id_rsa
+
+**Adicionando a chave SSH na sua conta do GitHub**:  sudo apt-get install xclip ; xclip -sel clip < ~/.ssh/id_rsa.pub (depois é só colar a chave no github).
+
+
 ### Comandos:
 
 **git init**: cria um repositório Git na pasta a qual se encontra.

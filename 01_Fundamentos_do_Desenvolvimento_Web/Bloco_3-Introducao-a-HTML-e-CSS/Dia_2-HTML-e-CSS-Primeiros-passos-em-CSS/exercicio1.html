@@ -8,6 +8,7 @@
             h1{
                 color: white;
                 font-family: 'Courier New', Courier, monospace;
+                text-align: center;
             }
             h2{
                 color: white;
@@ -22,6 +23,7 @@
             p{
                 color: white;
                 font-style:inherit;
+                text-align: center;
 
             }
             a{
@@ -29,6 +31,7 @@
             }
             .list-style{
                 color: white;
+                list-style-position: inside;
             }
             hr{
                 border-color: rgb(61, 2, 2);
@@ -38,14 +41,14 @@
     </head>
     <body>
         <hr>
-        <center><h1 id="titulo">Caio de Jesus Lima</h1></center>
+        <h1 id="titulo">Caio de Jesus Lima</h1>
         <hr>
         <br>
         <center><img id="foto"src="minha_foto.jpeg" width="300px" alt="Foto de Caio Lima"></center>
         <br>
         <hr>
-        <center><h2>Índice:</h2></center>
-        <ul>
+        <h2>Índice:</h2>
+        <ul class="list-style" style=" color: orange; list-style-type:circle;">
             <li><a href="#sobremim">Sobre mim</a></li>
             <br>
             <li><a href="#hab">Minhas habilidades</a></li>
@@ -56,8 +59,8 @@
         <br>
         <br>
         <hr>
-        <center><h2 id="sobremim">Sobre mim:</h2></center>
-        <center><p><strong>Meu nome é <a href="https://www.linkedin.com/in/caio-limah/" target="blank">Caio Lima</a></a> e sou estudante de Desenvolvimento WEB na <a href="https://www.betrybe.com/">Trybe</a>!<br> 
+        <h2 id="sobremim" style="text-align: center;">Sobre mim:</h2>
+        <p><strong>Meu nome é <a href="https://www.linkedin.com/in/caio-limah/" target="blank">Caio Lima</a></a> e sou estudante de Desenvolvimento WEB na <a href="https://www.betrybe.com/">Trybe</a>!<br> 
              Sou brasileiro e moro em Salvador-BA onde estive a maior parte da minha vida.<br>
              Busco sempre evoluir e me reinventar, por isso escolhi a Trybe para me ajudar a trilhar esse caminho.</strong></p></center>
         <hr>

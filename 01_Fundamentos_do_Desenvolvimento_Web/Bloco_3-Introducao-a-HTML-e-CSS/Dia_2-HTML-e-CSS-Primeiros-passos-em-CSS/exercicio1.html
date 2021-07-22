@@ -20,11 +20,53 @@
                 color: white;
                 font-family: Verdana, Geneva, Tahoma, sans-serif;
             }
-            p{
+            #hab{
+                text-align: center;
+            }
+            #resumoinicial{
                 color: white;
                 font-style:inherit;
                 text-align: center;
 
+            }
+            #foto{
+                border-radius: 150px;
+                border-style: solid;
+                border-width: 6px;
+                border-color: rgb(61, 2, 2);
+                }
+                
+            #farol{
+                border-width: 10px;
+                border-radius: 50px;
+                border-style: solid;
+                border-color:rgb(61, 2, 2);
+            }
+            #gato{
+                   text-align: center;
+
+            }
+            #hobbies{
+                text-align: center;
+            }
+            .gifspn{
+                text-align: center;
+            }
+            .listahab{
+                text-align: left
+            }
+            .img-container img{
+   
+             -webkit-transition: -webkit-transform .5s ease;
+             transition: transform .5s ease;
+            }
+
+            .img-container:hover img{
+                -webkit-transform: scale(1.1);
+                transform: scale(1.1);
+            }
+            #sobremim{
+                text-align: center;
             }
             a{
                 color: rgb(146, 50, 50);
@@ -33,80 +75,144 @@
                 color: white;
                 list-style-position: inside;
             }
+            .indice{
+                color: orange; list-style-type:circle;
+                list-style-position: inside;r;
+            }
             hr{
                 border-color: rgb(61, 2, 2);
                 border-width: 3mm;
+            }
+            .rodape{
+                text-align: center;
+            }
+            .imggithub{
+                border: radius 50%;
+                display: inline;
+            }
+            .tudoimgrodape{
+                text-align: center;
+            }
+            .borda{
+                border-style: solid;
+                border-color: rgb(61, 2, 2);
+                border-width: 1mm;
+                border-radius: 50px;
+            }
+            #links{
+                text-align: center;
             }
         </style>
     </head>
     <body>
         <hr>
-        <h1 id="titulo">Caio de Jesus Lima</h1>
+        <h1 id="titulo">Oi, eu sou o Caio Lima!</h1>
         <hr>
         <br>
-        <center><img id="foto"src="minha_foto.jpeg" width="300px" alt="Foto de Caio Lima"></center>
+        <div class="img-container" align="center">
+        <a href="https://www.linkedin.com/in/caio-limah/" target="blank"><img id="foto"src="minha_foto.jpeg" width="300px" alt="Foto de Caio Lima"></a>
+        </div>
         <br>
         <hr>
         <h2>Índice:</h2>
-        <ul class="list-style" style=" color: orange; list-style-type:circle;">
+        <div class="indice">
+        <ul style="list-style-type: circle;">
             <li><a href="#sobremim">Sobre mim</a></li>
             <br>
             <li><a href="#hab">Minhas habilidades</a></li>
             <br>
             <li><a href="#hobbies"> Meus hobbies</a></li>
+            <br>
+            <li><a href="#links">Links</a></li>
         </ul>
+    </div>
         <br>
         <br>
         <br>
         <hr>
-        <h2 id="sobremim" style="text-align: center;">Sobre mim:</h2>
-        <p><strong>Meu nome é <a href="https://www.linkedin.com/in/caio-limah/" target="blank">Caio Lima</a></a> e sou estudante de Desenvolvimento WEB na <a href="https://www.betrybe.com/">Trybe</a>!<br> 
+        <h2 id="sobremim">Sobre mim:</h2>
+        <p id="resumoinicial"><strong>Meu nome é <a href="https://www.linkedin.com/in/caio-limah/" target="blank" style="text-decoration: none;">Caio Lima</a></a> e sou estudante de Desenvolvimento WEB na <a href="https://www.betrybe.com/" style="text-decoration: none;">Trybe</a>!<br> 
              Sou brasileiro e moro em Salvador-BA onde estive a maior parte da minha vida.<br>
-             Busco sempre evoluir e me reinventar, por isso escolhi a Trybe para me ajudar a trilhar esse caminho.</strong></p></center>
+             Busco sempre evoluir e me reinventar, por isso escolhi a Trybe para me ajudar a trilhar esse caminho.</strong></p>
         <hr>
         <br>
         <br>
         <br>
-        <center><img src="https://c1.wallpaperflare.com/preview/637/761/302/farol-da-barra-bahia-brazil.jpg" width="400px"></center>
+        <div align="center">
+        <img id="farol" src="https://c1.wallpaperflare.com/preview/637/761/302/farol-da-barra-bahia-brazil.jpg" width="400px">
+        </div>
         <br>
         <br>
         <br>
         <hr>
         <h2 id="hab"><strong>Minhas Habilidades:</strong></h2>
-        <ol class="list-style">
-            <li><em>Unix & Bash</em></li>
+        <br>
+        <div>
+            <div id="gato">
+            <img src="https://qph.fs.quoracdn.net/main-qimg-9725f43386f85c2923a8bf1c073244b2" width="300px">
+            </div>
             <br>
-            <li><em>CSS</em></li>
-            <br>
-            <li><em>HTML</em></li>
-            <br>
-            <li><strong>Raciocínio Lógico</strong></li>
-            <br>
-            <li><strong>Empatia</strong></li>
-            <br>
-            <li><strong>Resiliência</strong></li>
-            <br>
-            <li><strong>Proatividade</strong></li>
-        </ol>
+            <div class="listahab">
+            <ol class="list-style">
+                <li><em>Unix & Bash</em></li>
+                <br>
+                <li><em>HTML</em></li>
+                <br>
+                <li><em>CSS</em></li>
+                <br>
+                <li><strong>Raciocínio Lógico</strong></li>
+                <br>
+                <li><strong>Empatia</strong></li>
+                <br>
+                <li><strong>Resiliência</strong></li>
+                <br>
+                <li><strong>Proatividade</strong></li>
+            </ol>
+        </div>
+        </div>
         <hr>
         <h2 id="hobbies">Meus Hobbies:</h2>
         <br>
-        <strong><ol class="list-style">
-            <li>Sair pra beber com meus amigos</li>
+        <div>
+            <div class="gifspn">
+                <img src="https://i.pinimg.com/originals/25/97/f9/2597f9c41c271a83574e3452c15334fd.gif" width="200px" alt="Gif de Supernatural">
+            </div>
             <br>
-            <li>Jogar jogos eletrônicos</li>
-            <br>
-            <li>Assistir filmes e séries</li>
-            <br>
-            <li>Programar!</li>
-        </ol></strong>
+            <div> 
+             <strong><ol class="list-style">
+             <li>Sair pra beber com meus amigos</li>
+             <br>
+             <li>Jogar jogos eletrônicos</li>
+             <br>
+             <li>Assistir filmes e séries</li>
+             <br>
+             <li>Cozinhar</li>
+             <br>
+             <li>Programar!</li>
+             </ol></strong>
+            </div>
+        </div>
         <hr>
+        <h2 id="links">Links:</h2>
         <br>
-        <center><h3><a href="https://github.com/caiojlima" target="blank">Link para meus repositórios do GitHub</a></h3></center>
-        <center><p><a href="#foto">Retornar para foto.</a></p></center>
-        <center><p><a href="#titulo">Retornar ao início.</a></p></center>
+        <div class="tudoimgrodape">
+        <div class="imggithub img-container">
+        <a href="https://github.com/caiojlima" target="blank"><img class="borda" src="github_logo.png" width="50px"></a>
+        </div>
+        <div class="imggithub img-container">
+            <a href="https://www.linkedin.com/in/caio-limah/" target="blank"><img class="borda" src="linkedin.png" alt="Logo do Linkedin" width="50px"></a>
+        </div>
+        <div class="imggithub img-container">
+            <a href="https://www.instagram.com/cj_l__/" target="blank"><img class="borda" src="instagram.png" alt="Logo do Instagram" width="50px"></a>
+        </div>
+         </div>
         <br>
+        <br>
+        <div class="rodape">
+        <p><a href="#titulo" style="text-decoration: none;padding: 15px 30px; background-color: rgb(61, 2, 2); border-radius: 100px">Retornar ao início</a></p>
         <hr>
-        <center><h6>Todos direitos resevados para Caio Lima</h6></center>
+        <h6>Todos direitos resevados para Caio Lima</h6>
+    </div>
     </body>
 </html>
+

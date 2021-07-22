@@ -1,0 +1,31 @@
+## Primeiros passos do CSS:
+
+<style></style> - Coloca-se essa tag no <head></head> afim de colocar parâmetros de estilo em um elemento específico:
+
+## Tags CSS:
+
+color: green;   - Adiciona cor aos caracteres.
+
+background-color: rgb(255, 400, 200); - Adiciona cor ao background.
+
+Font-family: sans-serif; - Seta a fonte para sans-serif.
+
+font-size: 20px; - Seta as fontes pra um tamanho de 20px.
+
+font-weight: bold – Seta os caracteres para negrito.
+
+font-style: italic – Seta os caracteres para itálico.
+
+border-color: blue;  - Seta a borda da linha horizontal.
+
+Border-width: 2mm – Ajusta grossura da linha horizontal.
+
+Line-height: 20px – Ajusta o espaçamento entre linhas.
+
+text-align: center; - Ajusta a formatação do texto.
+
+text-decoration: underline; - Sublinha todo o texto.
+
+OBS: Também é possível adicionar propriedades CSS dentro das tags, no formato style=”background-color: green; font-family: sans-seriff”.
+
+Para não copiar a tag <style></style> em todas as páginas do site que você criar, é possível inserir essas informações num arquivo “style.css” e fazer o link por meio da tag <link rel=”stylesheet” type=”text/css” href=”style.css”.

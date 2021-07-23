@@ -1,0 +1,118 @@
+
+h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: #000000;
+    font-style:inherit;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.inicio{
+    text-align: center;
+    display: inline;
+    position: absolute;
+    background-color: black;
+    width: 100%;
+    height: 30px;
+    top: 0%;
+    padding-top: 30px;
+
+}
+.estiloinicio{
+     text-decoration: none;
+     font-size: 5mm;
+     margin: 4mm;
+     padding: 5px 25px;
+     background-color: rgb(61, 2, 2);
+     border-radius: 10px; 
+     font-family: monospace;
+     border-style: solid;
+     border-color: rgb(146, 50, 50);
+    
+}
+#titulo{
+    margin-top: 30px;
+}
+}
+#inicio{
+    display: inline;
+
+}
+#hab{
+    text-align: center;
+}
+#resumoinicial{
+    color: white;
+    font-style:inherit;
+    text-align: center;
+
+}
+#foto{
+    border-radius: 150px;
+    border-style: solid;
+    border-width: 6px;
+    border-color: rgb(61, 2, 2);
+    }
+    
+#farol{
+    border-width: 10px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color:rgb(61, 2, 2);
+}
+#gato{
+       text-align: center;
+
+}
+#hobbies{
+    text-align: center;
+}
+.gifspn{
+    text-align: center;
+}
+.listahab{
+    text-align: left
+}
+#sobremim{
+    text-align: center;
+}
+a{
+    color: rgb(146, 50, 50);
+}
+.list-style{
+    color: white;
+    list-style-position: inside;
+}
+.indice{
+    color: orange; list-style-type:circle;
+}
+hr{
+    border-color: rgb(61, 2, 2);
+    border-width: 3mm;
+}
+.rodape{
+    text-align: center;
+}
+.imggithub{
+    border: radius 50%;
+    display: inline;
+}
+.tudoimgrodape{
+    text-align: center;
+}
+.borda{
+    border-style: solid;
+    border-color: rgb(61, 2, 2);
+    border-width: 1mm;
+    border-radius: 50px;
+}
+#links{
+    text-align: center;
+}

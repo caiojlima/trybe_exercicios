@@ -1,0 +1,108 @@
+body{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: rgb(17, 129, 133);
+        }
+        header{
+            text-align: center;
+            background-color: #03045e;
+            padding: 10px;
+            margin-top: 0%;
+            margin-bottom: 0%;
+            border-radius: 20px;
+        }
+        article{
+            width: 80%;
+            display: inline-block;
+        }
+        h1{
+            color: cornflowerblue;
+        }
+        .navigation{
+            text-align: center;
+            font-size: 15px;
+            background-color: black;
+        }
+        .navigation li{
+            display: inline;
+            margin-right: 1cm;
+            background-color: black;
+        }
+        .navigation a{
+            text-decoration: none;
+            color: white;
+            margin-top: 0;
+        }
+        h2{
+            text-align: center;
+            margin-left: 7cm;
+            color: blue;
+        }
+        h3{
+            color: blue;
+        }
+        .intro{
+            margin-left: 10px;
+        }
+        .intro p{
+            width: 50%;
+            display:inline-block;
+            position: relative;
+            bottom: 1cm;
+            
+        }
+        .intro table{
+            display: inline-block;
+            position: relative;
+            left: 45mm;
+        }
+        td{
+            border: 2px solid;
+        }
+        section{
+            margin-left: 10px;
+        }
+        .types p{
+            width: 45%;
+            display: inline-block;
+        }
+        .types img{
+            margin-left: 3cm;
+        }
+        
+        section p{
+            width: 50%;
+            display: inline-block;
+            position: relative;
+            bottom: 4cm;
+        }
+        .boxer img{
+            display: inline;
+            margin-left: 17mm;
+            position:relative;            
+        }
+        img{
+            border-radius: 70px;
+        }
+        .references{
+            margin-left: 10px;
+        }
+        .references li{
+            margin-bottom: 5mm;
+        }
+        aside{
+            font-size: 30px;
+            text-align: center;
+            display: inline-block;
+            padding: 100px 0;
+            background-color: yellow;
+            width: 15%;
+            float: right;
+            margin-top: 1cm;
+            border: 3px solid blue;
+            position: fixed;
+            
+        }
+        aside:hover{
+            background-color: rgb(67, 171, 219);
+            border-color: red;
+        }

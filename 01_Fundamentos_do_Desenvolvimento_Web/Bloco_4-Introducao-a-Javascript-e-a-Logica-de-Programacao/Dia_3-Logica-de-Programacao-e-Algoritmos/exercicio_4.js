@@ -1,6 +1,6 @@
-let n = 7;
+let n = 8;
 let piramide = '';
-const numLinhas = (n / 2) + 0.5;
+const numLinhas = Math.ceil(n / 2);
 
 for(let linha = 1; linha <= numLinhas; linha += 1 ){
     if (linha === 1){

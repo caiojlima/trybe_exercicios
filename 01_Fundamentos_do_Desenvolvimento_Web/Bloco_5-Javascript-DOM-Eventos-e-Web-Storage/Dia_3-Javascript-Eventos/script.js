@@ -204,7 +204,7 @@ const ulTasksInput = document.querySelector('.task-list');
 
 button.addEventListener("click", addCommitment);
 
-input.addEventListener('keydown', pressEnter)
+input.addEventListener('keypress', pressEnter)
 
 function addCommitment() { 
   if(input.value === ''){

@@ -192,10 +192,7 @@ function tagDay(event) {
   
 }
 
-
-for (elm of daysList) {
-  elm.addEventListener('click', tagDay);
-}
+ul.addEventListener('click', tagDay);
 
 // Bônus:
 const input = document.getElementById('task-input');
@@ -213,6 +210,7 @@ function addCommitment() {
     let newLiIn = document.createElement('li');
     newLiIn.innerText = input.value;
     ulTasksInput.appendChild(newLiIn);
+    input.value = '';
   }
 
 }
@@ -222,5 +220,6 @@ function pressEnter(event) {
     let newLiIn = document.createElement('li');
     newLiIn.innerText = input.value;
     ulTasksInput.appendChild(newLiIn);
+    input.value = '';
   }
 }

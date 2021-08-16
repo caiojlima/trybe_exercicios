@@ -38,12 +38,12 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 5.2 - JavaScript - Trabalhando com elementos
 - [x] 5.3 - JavaScript - Eventos
 - [x] 5.4 - JavaScript - Web Storage
-- [ ] 5.5 - Fundamentos - JavaScript - Projetos
-- [ ] 5.5 - Projeto - Arte com Pixels
-- [ ] 5.6 - Projeto - Lista de tarefas
-- [ ] 5.7 - (Bônus) Projeto - Meme Generator
-- [ ] 5.7 - (Bônus) Projeto - Adivinhe a Cor
-- [ ] 5.7 - (Bônus) Projeto - Carta Misteriosa
+- [x] 5.5 - Fundamentos - JavaScript - Projetos
+- [x] 5.5 - Projeto - Arte com Pixels
+- [x] 5.6 - Projeto - Lista de tarefas
+- [x] 5.7 - (Bônus) Projeto - Meme Generator
+- [x] 5.7 - (Bônus) Projeto - Adivinhe a Cor
+- [x] 5.7 - (Bônus) Projeto - Carta Misteriosa
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 - [ ] 6.1 - HTML & CSS - Forms

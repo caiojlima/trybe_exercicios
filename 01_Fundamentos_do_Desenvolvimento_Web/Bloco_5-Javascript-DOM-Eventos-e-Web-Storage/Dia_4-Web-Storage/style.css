@@ -1,0 +1,32 @@
+* {
+  margin-top: 0;
+}
+h1 {
+  text-align: center;
+}
+p {
+  display: inline-block;
+  width: 30%;
+  margin-left: 3mm;
+  margin-top: 3mm;
+}
+
+.p2 {
+  display: inline-block;
+  width: 48%;
+  margin-left: 3mm;
+}
+
+#button-container {
+  text-align: center;
+}
+
+#input-container {
+  margin-top: 5mm;
+  text-align: center;
+}
+
+input {
+  border: 2px solid black;
+  width: 275px;
+}

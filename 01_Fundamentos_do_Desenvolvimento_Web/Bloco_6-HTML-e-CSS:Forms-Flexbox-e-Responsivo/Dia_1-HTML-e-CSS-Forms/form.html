@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <form action="" method="GET" enctype="multipart/form-data">
+    <fieldset>
+      <label for="nome-completo"> Nome:
+        <input type="text" id="nome-completo" maxlength="40" required>
+      </label>
+      <label for="email">Email:
+        <input type="email" name="email" id="email" maxlength="50" required>
+      </label>
+      <label for="cpf">CPF:
+        <input type="text" name="CPF" id="cpf" maxlength="11" required>
+      </label>
+      <label for="endereco">Endereço:
+        <input type="text" id="endereco"
+        maxlength="200" required>
+      </label>
+      <label for="cidade">Cidade:
+        <input type="text" id="cidade" maxlength="28" required>
+      </label>
+      <label for="estados-brasil"> Estado:</label>
+      <select name="estados" id="estados-brasil" required></select>
+      <label for="casa">Tipo:
+        <label for="casa">
+          <input type="radio" name="tipo-casa" id="casa" checked>Casa
+        </label>
+        <label for="apartamento">
+          <input type="radio" name="tipo-casa" id="apartamento" >Apartamento
+        </label>
+      </label>
+    </fieldset>
+    <fieldset>
+      <label for="curriculo">Resumo do currículo:</label>
+      <textarea name="curriculo" id="curriculo" cols="30" rows="10" maxlength="1000" required></textarea>
+      <label for="cargo">Cargo:
+        <input type="text" id="cargo" maxlength="40" required>
+      </label>
+      <label for="descri-cargo">Descrição do cargo:
+        <input type="text" id="descri-cargo" maxlength="500" required>
+      </label>
+      <label for="inicio">Data de início:
+        <input type="text" name="data-inicio" id="inicio" required>
+      </label>      
+    </fieldset>
+    <button type="submit" id="enviar">Enviar</button>
+    <button type="reset" id="limpar">Limpar</button>
+  </form> 
+  <div id="preview"></div>
+  <script src="script.js"></script>
+</body>
+</html>

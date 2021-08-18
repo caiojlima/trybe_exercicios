@@ -1,0 +1,23 @@
+input {
+  display: block;
+}
+fieldset {
+  width: 300px;
+}
+
+#casa, #apartamento {
+  display: inline-block;
+}
+
+p { 
+  display: inline-block;
+}
+form {
+  display: inline-block;
+}
+
+#preview {
+  border: 1px solid black;
+  width: 250px;
+  
+}

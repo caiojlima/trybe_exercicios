@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/bulma.min.css">
+  <link rel="stylesheet" href="DatePickerX.min.css">
+  <link rel="stylesheet" href="dist/css/justValidateTooltip.min.css">
+  <script src="dist/js/just-validate.min.js"></script>  
+</head>
+<body>
+  <form method="GET" enctype="multipart/form-data">
+    <fieldset>
+      <label for="nome-completo"> Nome:
+        <input type="text" id="nome-completo" class="input is-info" maxlength="40" data-validate-field="text" required>
+      </label>
+      <label for="email">Email:
+        <input type="email" class="input is-info" name="email" id="email" maxlength="50" data-validate-field="email" required>
+      </label>
+      <label for="cpf">CPF:
+        <input type="text" name="CPF" class="input is-info" id="cpf" minlength="11" maxlength="11" data-validate-field="text" required>
+      </label>
+      <label for="endereco">Endereço:
+        <input type="text" class="input is-info" id="endereco" maxlength="200" data-validate-field="text" required>
+      </label>
+      <label for="cidade">Cidade:
+        <input type="text" id="cidade" class="input is-info" maxlength="28" data-validate-field="text" required>
+      </label>
+      <label for="estados-brasil"> Estado:</label>
+      <select name="estados" id="estados-brasil" required></select>
+      <label for="casa">Tipo:
+        <label for="casa" class="radio">
+          <input type="radio" name="tipo-casa" id="casa" checked>Casa
+        </label>
+        <label for="apartamento" class="radio">
+          <input type="radio" name="tipo-casa" id="apartamento" >Apartamento
+        </label>
+      </label>
+    </fieldset>
+    <fieldset>
+      <label for="curriculo">Resumo do currículo:</label>
+      <textarea name="curriculo" class="textarea has-fixed-size is-info" id="curriculo" cols="30" rows="10" maxlength="1000" data-validate-field="text" required></textarea>
+      <label for="cargo">Cargo:
+        <input type="text" class="input is-info" id="cargo" maxlength="40" data-validate-field="text" required>
+      </label>
+      <label for="descri-cargo">Descrição do cargo:
+        <input type="text" class="input is-info" id="descri-cargo" maxlength="500" data-validate-field="text" required>
+      </label>
+      <label for="inicio">Data de início:
+        <input type="text" class="input is-info" name="data-inicio" id="inicio">
+      </label>       
+    </fieldset>
+    <button type="submit" id="enviar" class="button is-success">Enviar</button>
+    <button type="reset" id="limpar" class="button is-warning">Limpar</button>
+  </form> 
+  <div id="preview"></div>  
+  <script src="src/DatePickerX.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

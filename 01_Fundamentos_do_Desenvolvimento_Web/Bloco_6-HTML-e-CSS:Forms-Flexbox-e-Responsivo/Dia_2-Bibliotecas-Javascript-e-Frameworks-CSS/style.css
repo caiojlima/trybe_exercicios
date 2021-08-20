@@ -1,0 +1,39 @@
+* {
+  margin-left: 5mm;
+  margin-top: 1mm;
+}
+
+input {
+  display: block;
+}
+fieldset {
+  width: 400px;
+}
+
+#casa, #apartamento {
+  display: inline-block;
+  
+}
+
+p { 
+  display: inline-block;
+}
+
+form {
+  display: inline-block;
+}
+
+.button {
+  margin-top: 4mm;
+  margin-right: 4mm;
+}
+
+#preview h2{
+  text-align: center;  
+  font-weight: bolder;
+}
+
+#preview div{
+  width: 100%;
+  text-justify: auto;
+}

@@ -1,6 +1,6 @@
 const listaEstados = document.getElementById('estados-brasil');
 const arrayEstados = ["AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "GO", "MA", "MT", "MS", "MG", "PA", "PB", "PR", "PE", "PI", "RJ", "RN", "RO", "RS", "RR", "SC", "SE", "SP", "TO"];
-const dataInput = document.getElementById('inicio').DatePickerX.init({format:'dd/mm/yyyy'});
+const dataInput = document.getElementById('inicio').DatePickerX.init({ format: 'dd/mm/yyyy' });
 const enviarBotao = document.getElementById('enviar');
 const limparBotao = document.getElementById('limpar');
 const listaInput = document.getElementsByTagName('input');
@@ -9,7 +9,65 @@ const select = document.getElementById('estados-brasil');
 const labelList = document.querySelectorAll('label');
 const textArea = document.getElementById('curriculo');
 
+new window.JustValidate('.js-form', {
+  rules: {
+    radio: {
+      required: true
+    },
+    radio2: {
+      required: true
+    },
+    text: {
+      required: true
+    },
+    cpf: {
+      required: true
+    },
+    adress: {
+      required: true
+    },
+    city: {
+      required: true
+    },
+    curri: {
+      required: true
+    },
+    name: {
+      required: true
+    },
+    cargo: {
+      required: true
+    },
+    email: {
+      required: true,
+      email: true,
+    },
+    date: {
+      required: true
+    },
+  },
 
+  focusWrongField: true,
+
+  // submitHandler: function (form, values, ajax) {
+  //     ajax({
+  //         url: 'https://just-validate-api.herokuapp.com/submit',
+  //         method: 'POST',
+  //         data: values,
+  //         async: true,
+  //         callback: function (response) {
+  //             alert('AJAX submit successful! \nResponse from server:' + response)
+  //         },
+  //         error: function (response) {
+  //             alert('AJAX submit error! \nResponse from server:' + response)
+  //         }
+  //     });
+  // },
+
+  invalidFormCallback: function (errors) {
+    console.log(errors);
+  },
+});
 
 for (let i = 0; i < arrayEstados.length; i += 1) {
   const newOption = document.createElement('option');
@@ -59,23 +117,15 @@ function secondFieldset() {
     newDiv4.style.display = "block";
     divPreview.appendChild(newDiv4);
     const newLabel = document.createElement('label');
-    newLabel.innerText = labelList[i].innerText + '  ' + listaInput[(i-3)].value;
+    newLabel.innerText = labelList[i].innerText + '  ' + listaInput[(i - 3)].value;
     newDiv4.appendChild(newLabel);
   }
 }
 
 enviarBotao.addEventListener('click', (event) => {
-  console.log('entrou')
-  event.preventDefault();
-  console.log('passou!')
   divPreview.innerHTML = '';
   for (let i = 0; i < listaInput.length; i += 1) {
-    if (listaInput[i].value === "") {
-      console.log('entrou aqui');
-      const newDiv = document.createElement('div');
-      newDiv.innerText = 'Informações inválidas!';
-      newDiv.style.marginTop = '3mm';
-      divPreview.appendChild(newDiv);
+    if (listaInput[i].value === "") {      
       return;
     }
   }
@@ -101,9 +151,10 @@ enviarBotao.addEventListener('click', (event) => {
   estados();
   radioCheck();
   secondFieldset();
+  event.preventDefault();
 });
 
 limparBotao.addEventListener('click', () => {
   divPreview.innerHTML = '';
-  divPreview.style.border = ''  
+  divPreview.style.border = '';
 });

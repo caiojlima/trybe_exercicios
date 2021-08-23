@@ -37,3 +37,19 @@ form {
   width: 100%;
   text-justify: auto;
 }
+
+.no-float {
+  float: none;
+}
+
+.mt30 {
+  margin-top: 30px;
+}
+
+.js-validate-error-label {
+  margin-top: 5px;
+}
+
+.form__radio, .form__checkbox {
+  margin-right: 7px !important;
+}

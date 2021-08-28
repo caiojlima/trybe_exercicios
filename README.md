@@ -23,7 +23,7 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [x] 3.3 - HTML & CSS - Seletores e posicionamento
 - [x] 3.4 - HTML Semântico
-- [x] 3.5 - Projeto - Lessons Learned
+- [x] 3.5 - [Projeto - Lessons Learned](https://github.com/tryber/sd-015-a-project-lessons-learned/pull/13)
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 - [x] 4.1 - Introdução - JavaScript
@@ -31,7 +31,7 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 4.2 - JavaScript - Array e loop For
 - [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [x] 4.4 - JavaScript - Objetos e funções
-- [x] 4.5 - Projeto - Playground Functions
+- [x] 4.5 - [Projeto - Playground Functions](https://github.com/tryber/sd-015-a-project-playground-functions/pull/13)
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 - [x] 5.1 - JavaScript - DOM e seletores
@@ -39,11 +39,11 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 5.3 - JavaScript - Eventos
 - [x] 5.4 - JavaScript - Web Storage
 - [x] 5.5 - Fundamentos - JavaScript - Projetos
-- [x] 5.5 - Projeto - Arte com Pixels
-- [x] 5.6 - Projeto - Lista de tarefas
-- [x] 5.7 - (Bônus) Projeto - Meme Generator
-- [x] 5.7 - (Bônus) Projeto - Adivinhe a Cor
-- [x] 5.7 - (Bônus) Projeto - Carta Misteriosa
+- [x] 5.5 - [Projeto - Arte com Pixels](https://github.com/tryber/sd-015-a-project-pixels-art/pull/8)
+- [x] 5.6 - [Projeto - Lista de tarefas](https://github.com/tryber/sd-015-a-project-todo-list/pull/9)
+- [x] 5.7 - [(Bônus) Projeto - Meme Generator](https://github.com/tryber/sd-015-a-project-meme-generator/pull/3)
+- [x] 5.7 - [(Bônus) Projeto - Adivinhe a Cor](https://github.com/tryber/sd-015-a-project-color-guess/pull/3)
+- [x] 5.7 - [(Bônus) Projeto - Carta Misteriosa](https://github.com/tryber/sd-015-a-project-mistery-letter/pull/3)
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 - [x] 6.1 - HTML & CSS - Forms
@@ -52,12 +52,12 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 6.3 - CSS Flexbox - Parte 1
 - [x] 6.4 - CSS Flexbox - Parte 2
 - [x] 6.5 - CSS Responsivo - Mobile First
-- [x] 6.6 - Projeto - Trybewarts
+- [x] 6.6 - [Projeto - Trybewarts](https://github.com/tryber/sd-015-a-project-trybewarts/pull/91)
 
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
-- [ ] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 7.2 - JavaScript ES6 - Objects
-- [ ] 7.3 - Testes unitários em JavaScript
+- [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 7.2 - JavaScript ES6 - Objects
+- [x] 7.3 - Testes unitários em JavaScript
 - [ ] 7.4 - Projeto - JavaScript Testes Unitários
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6

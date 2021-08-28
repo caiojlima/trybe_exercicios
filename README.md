@@ -6,18 +6,18 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### Bloco 1: [Unix, Bash e Shell Script](https://github.com/caiolima071/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_1-Unix-%26-Bash)
+##### Bloco 1: [Unix, Bash e Shell Script](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_1-Unix-%26-Bash)
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
 - [x] 1.3 - Introdução - Unix & Shell
 - [x] 1.3 - Unix & Bash - Parte 1
 - [x] 1.4 - Unix & Bash - Parte 2
 
-##### Bloco 2: [Git, GitHub e Internet](https://github.com/caiolima071/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_2-Git-Github-e-Internet)
+##### Bloco 2: [Git, GitHub e Internet](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_2-Git-Github-e-Internet)
 - [x] 2.1 - Git & GitHub  - O que é e para que serve
 - [x] 2.2 - Git & GitHub - Entendendo os comandos
 - [x] 2.3 - Internet - Entendendo como ela funciona
 
-##### Bloco 3: Introdução à HTML e CSS
+##### Bloco 3: [Introdução à HTML e CSS](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_3-Introducao-a-HTML-e-CSS)
 - [x] 3.1 - Introdução - HTML & CSS
 - [x] 3.1 - HTML & CSS - Estruturas de página
 - [x] 3.2 - HTML & CSS - Primeiros passos em CSS
@@ -25,7 +25,7 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 3.4 - HTML Semântico
 - [x] 3.5 - [Projeto - Lessons Learned](https://github.com/tryber/sd-015-a-project-lessons-learned/pull/13)
 
-##### Bloco 4: Introdução à JavaScript e Lógica de Programação
+##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_4-Introducao-a-Javascript-e-a-Logica-de-Programacao)
 - [x] 4.1 - Introdução - JavaScript
 - [x] 4.1 - JavaScript - Primeiros passos
 - [x] 4.2 - JavaScript - Array e loop For
@@ -33,7 +33,7 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 4.4 - JavaScript - Objetos e funções
 - [x] 4.5 - [Projeto - Playground Functions](https://github.com/tryber/sd-015-a-project-playground-functions/pull/13)
 
-##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
+##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_5-Javascript-DOM-Eventos-e-Web-Storage)
 - [x] 5.1 - JavaScript - DOM e seletores
 - [x] 5.2 - JavaScript - Trabalhando com elementos
 - [x] 5.3 - JavaScript - Eventos
@@ -45,7 +45,7 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 5.7 - [(Bônus) Projeto - Adivinhe a Cor](https://github.com/tryber/sd-015-a-project-color-guess/pull/3)
 - [x] 5.7 - [(Bônus) Projeto - Carta Misteriosa](https://github.com/tryber/sd-015-a-project-mistery-letter/pull/3)
 
-##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_6-HTML-e-CSS:Forms-Flexbox-e-Responsivo)
 - [x] 6.1 - HTML & CSS - Forms
 - [x] 6.2 - Bibliotecas JavaScript e Frameworks CSS
 - [x] 6.3 - Introdução - CSS Flexbox
@@ -54,7 +54,7 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 6.5 - CSS Responsivo - Mobile First
 - [x] 6.6 - [Projeto - Trybewarts](https://github.com/tryber/sd-015-a-project-trybewarts/pull/91)
 
-##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
+##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_7-Introducao-a-Javascript-ES6-e-Testes-Unitarios/Dia_1-Javascript-ES6-let-const-arrow-functions-e-template-literals)
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 7.2 - JavaScript ES6 - Objects
 - [x] 7.3 - Testes unitários em JavaScript

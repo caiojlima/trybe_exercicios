@@ -35,10 +35,10 @@ const order = {
 };
 // Exercício 1:
 const customerInfo = (order) => {
-  return `Olá Ana Silveira, entrega para: ${order.name}, Telefone: ${order.phoneNumber}, R. ${order.address.street}, N°: ${order.address.number}, AP: ${order.address.apartment}`;
+  return `Olá ${order.order.delivery.deliveryPerson}, entrega para: ${order.name}, Telefone: ${order.phoneNumber}, R. ${order.address.street}, N°: ${order.address.number}, AP: ${order.address.apartment}`;
 }
 
-customerInfo(order);
+console.log(customerInfo(order));
 
 // Exercício 2:
 const orderModifier = (order) => {
@@ -48,4 +48,3 @@ const orderModifier = (order) => {
 
 }
 console.log(orderModifier(order));
-orderModifier(order);

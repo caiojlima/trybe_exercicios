@@ -33,18 +33,17 @@ const listarTamanhoObjeto = objeto => listarChaves(objeto).length;
 const listarValores = objeto => Object.values(objeto);
 
 // Exercício 5:
-const allLessons = {
-  lesson1: {},
-  lesson2: {},
-  lesson3: {}
-};
-
-Object.assign(allLessons.lesson1, lesson1)
-Object.assign(allLessons.lesson2, lesson2)
-Object.assign(allLessons.lesson3, lesson3)
+const allLessons = Object.assign({}, {lesson1, lesson2, lesson3});
 
 // Exercício 6:
-const totalDeAlunos = objeto => objeto.lesson1.numeroEstudantes + objeto.lesson2.numeroEstudantes + objeto.lesson3.numeroEstudantes;
+const totalDeAlunos = objeto => {
+  const arrayKeys = Object.key(objeto);
+  let soma = 0;
+  for(index in arrayKeys) {
+    soma += objeto[arrayKeys[index]].numeroEstudantes   
+  }
+  return soma;
+}
 
 // Exercício 7:
 const getValueByNumber = (objeto, number) => Object.entries(objeto)[number][1];

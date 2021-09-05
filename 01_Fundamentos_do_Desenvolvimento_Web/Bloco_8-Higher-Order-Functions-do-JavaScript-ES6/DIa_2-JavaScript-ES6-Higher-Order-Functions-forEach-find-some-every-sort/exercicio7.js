@@ -71,7 +71,7 @@ function authorUnique() {
   books.forEach((elem) => {
     for (let e of books) {
       if (elem.author.birthYear === e.author
-        .birthYear) {
+        .birthYear && elem.author.name !== e.author.name) {
         boolean = false;
       }
     }    

@@ -19,7 +19,7 @@ const handleError = (errorReason) =>
 // definição da função sendMarsTemperature...
 const sendMarsTemperature = (onSucess, onFail) => {
   const sucess = Math.round(Math.random() * 100);
-  (sucess >= 60) ? setTimeout(() => onSucess(getMarsTemperature()), messageDelay()) : setTimeout(() => onFail('Robot is busy'), messageDelay());
+  (sucess <= 60) ? setTimeout(() => onSucess(getMarsTemperature()), messageDelay()) : setTimeout(() => onFail('Robot is busy'), messageDelay());
 }
 // imprime "It is currently 47ºF at Mars", por exemplo, ou "Error getting temperature: Robot is busy"
 sendMarsTemperature(temperatureInFahrenheit, handleError);

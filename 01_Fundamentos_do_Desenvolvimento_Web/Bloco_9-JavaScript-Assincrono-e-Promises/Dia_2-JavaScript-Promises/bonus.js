@@ -4,7 +4,6 @@ const makeRandomArray = async () => {
     const number = Math.floor(Math.random() * 50 + 1);
     array.push(number * number);
   }
-  console.log(array.reduce((acc, elem) => acc + elem, 0))
   if (array.reduce((acc, elem) => acc + elem, 0) < 8000 ) {
     return array.reduce((acc, elem) => acc + elem, 0)
   } else {

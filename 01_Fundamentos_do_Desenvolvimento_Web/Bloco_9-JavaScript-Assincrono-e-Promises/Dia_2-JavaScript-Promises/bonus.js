@@ -12,6 +12,6 @@ const makeRandomArray = async () => {
   
 }
 const mensagem = makeRandomArray()
-.then((resolve) => [resolve/2, resolve/3, resolve/5, resolve/10])
-.then((array) => console.log(array.reduce((acc, elem) => acc + elem), 0))
+.then((resolve) => [2, 3, 5,10].map((numb) => resolve/numb))
+.then((array) => console.log(array.reduce((acc, elem) => acc + elem, 0)))
 .catch(() => console.log('É mais de oito mil! Essa promise deve estar quebrada!'))

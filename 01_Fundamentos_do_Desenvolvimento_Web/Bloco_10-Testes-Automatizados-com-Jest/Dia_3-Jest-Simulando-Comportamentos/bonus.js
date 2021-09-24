@@ -6,3 +6,5 @@ const fetchJoke = () => {
     .then(response => response.json())
     .then(data => data.joke);
 };
+
+module.exports = fetchJoke;

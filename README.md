@@ -4,7 +4,7 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 
 >"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Fundamentos do Desenvolvimento Web :white_check_mark:
 
 ##### Bloco 1: [Unix, Bash e Shell Script](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_1-Unix-%26-Bash)
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
@@ -66,20 +66,20 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
 - [x] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
 - [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [x] 8.6 - Projeto - Zoo functions
+- [x] 8.6 - [Projeto - Zoo functions](https://github.com/tryber/sd-015-a-project-zoo-functions/pull/14)
 
 ##### Bloco 9: JavaScript Assíncrono e Promises
 - [x] 9.1 - JavaScript Assíncrono e Callbacks
 - [x] 9.2 - JavaScript Promises
-- [x] 9.3 - Projeto - Carrinho de Compras
+- [x] 9.3 - [Projeto - Carrinho de Compras](https://github.com/tryber/sd-015-a-project-shopping-cart/pull/4)
 
 ##### Bloco 10: Testes automatizados com Jest
 - [x] 10.1 - Primeiros passos no Jest
 - [x] 10.2 - Jest - Testes Assíncronos
 - [x] 10.3 - Jest - Simulando comportamentos
-- [x] 10.4 - Projeto - Jest Assíncrono e Mocking
+- [x] 10.4 - Projeto - [Jest Assíncrono e Mocking](https://github.com/tryber/sd-015-a-project-jest/pull/5)
 
-## Desenvolvimento Front-end
+## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução à React
 - [ ] 11.1 - Introdução - Front-end

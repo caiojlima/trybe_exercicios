@@ -60,7 +60,7 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 7.3 - Testes unitários em JavaScript
 - [x] 7.4 - [Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-015-a-project-js-unit-tests/pull/4)
 
-##### Bloco 8: Higher Order Functions do JavaScript ES6
+##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_8-Higher-Order-Functions-do-JavaScript-ES6)
 - [x] 8.1 - Higher Order Functions do JavaScript ES6
 - [x] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [x] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
@@ -68,12 +68,12 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [x] 8.6 - [Projeto - Zoo functions](https://github.com/tryber/sd-015-a-project-zoo-functions/pull/14)
 
-##### Bloco 9: JavaScript Assíncrono e Promises
+##### Bloco 9: [JavaScript Assíncrono e Promises](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_9-JavaScript-Assincrono-e-Promises)
 - [x] 9.1 - JavaScript Assíncrono e Callbacks
 - [x] 9.2 - JavaScript Promises
 - [x] 9.3 - [Projeto - Carrinho de Compras](https://github.com/tryber/sd-015-a-project-shopping-cart/pull/4)
 
-##### Bloco 10: Testes automatizados com Jest
+##### Bloco 10: [Testes automatizados com Jest](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_10-Testes-Automatizados-com-Jest)
 - [x] 10.1 - Primeiros passos no Jest
 - [x] 10.2 - Jest - Testes Assíncronos
 - [x] 10.3 - Jest - Simulando comportamentos
@@ -82,9 +82,9 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução à React
-- [ ] 11.1 - Introdução - Front-end
-- [ ] 11.1 - Introdução - React
-- [ ] 11.1 - 'Hello, world!' no React!
+- [x] 11.1 - Introdução - Front-end
+- [x] 11.1 - Introdução - React
+- [x] 11.1 - 'Hello, world!' no React!
 - [ ] 11.2 - Componentes React
 - [ ] 11.3 - Projeto - Movie Cards Library
 

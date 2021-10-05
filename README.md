@@ -73,7 +73,7 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 9.2 - JavaScript Promises
 - [x] 9.3 - [Projeto - Carrinho de Compras](https://github.com/tryber/sd-015-a-project-shopping-cart/pull/4)
 
-##### Bloco 10: [Testes automatizados com Jest](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_10-Testes-Automatizados-com-Jest)
+##### Bloco 10-A: [Testes automatizados com Jest](https://github.com/caiojlima/trybe_exercicios/tree/main/01_Fundamentos_do_Desenvolvimento_Web/Bloco_10-Testes-Automatizados-com-Jest)
 - [x] 10.1 - Primeiros passos no Jest
 - [x] 10.2 - Jest - Testes Assíncronos
 - [x] 10.3 - Jest - Simulando comportamentos
@@ -81,34 +81,34 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 11: Introdução à React
+##### Bloco 10-B: Introdução à React
 - [x] 11.1 - Introdução - Front-end
 - [x] 11.1 - Introdução - React
 - [x] 11.1 - 'Hello, world!' no React!
 - [ ] 11.2 - Componentes React
 - [ ] 11.3 - Projeto - Movie Cards Library
 
-##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
+##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 - [ ] 12.1 - Componentes com estado e eventos
 - [ ] 12.2 - Formulários no React
 - [ ] 12.3 - Projeto - Movie Cards Library Stateful
 
-##### Bloco 13: Ciclo de Vida de Componentes e React Router
+##### Bloco 12: Ciclo de Vida de Componentes e React Router
 - [ ] 13.1 - Ciclo de vida de componentes
 - [ ] 13.2 - React Router
 - [ ] 13.3 - Projeto - Movie Cards Library CRUD
 
-##### Bloco 14: Metodologias Ágeis
+##### Bloco 13: Metodologias Ágeis
 - [ ] 14.1 - Metodologias Ágeis
 - [ ] 14.2 - Projeto - Frontend Online Store
 
-##### Bloco 15: Testes automatizados com React Testing Library
+##### Bloco 14: Testes automatizados com React Testing Library
 - [ ] 15.1 - RTL - Primeiros passos
 - [ ] 15.2 - RTL - Mocks e Inputs
 - [ ] 15.3 - RTL - Testando React Router
 - [ ] 15.4 - Projeto - Testes em React
 
-##### Bloco 16: Gerenciamento de estado com Redux
+##### Bloco 15: Gerenciamento de estado com Redux
 - [ ] 16.1 - Introdução ao Redux - O estado global da aplicação
 - [ ] 16.2 - Usando o Redux no React
 - [ ] 16.3 - Usando o Redux no React - Prática
@@ -116,21 +116,21 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [ ] 16.5 - Testes síncronos com React-Redux
 - [ ] 16.6 - Projeto - Tabela com filtros de dados
 
-##### Bloco 17: Projeto Jogo de Trivia
+##### Bloco 16: Projeto Jogo de Trivia
 - [ ] 17.1 - Projeto - Jogo de Trivia
 
-##### Bloco 18: Context API e React Hooks
+##### Bloco 17: Context API e React Hooks
 - [ ] 18.1 - Context API do React
 - [ ] 18.2 - React Hooks - useState e useContext
 - [ ] 18.3 - React Hooks - useEffect e Hooks customizados
 - [ ] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
 
-##### Bloco 19: Projeto App de Receitas
+##### Bloco 18: Projeto App de Receitas
 - [ ] 19.1 - Projeto - App de Receitas
 
 ## Desenvolvimento Back-end 
 
-##### Bloco 20: Introdução à SQL
+##### Bloco 19: Introdução à SQL
 - [ ] 20.1 - Introdução - Back-end
 - [ ] 20.1 - Introdução - Bancos de dados relacionais
 - [ ] 20.1 - Banco de dados SQL
@@ -139,36 +139,36 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [ ] 20.4 - Manipulando tabelas
 - [ ] 20.5 - Projeto - All For One
 
-##### Bloco 21: Funções SQL, Joins e Subqueries
+##### Bloco 20: Funções SQL, Joins e Subqueries
 - [ ] 21.1 - Funções mais usadas no SQL
 - [ ] 21.2 - Descomplicando JOINs e UNIONs
 - [ ] 21.3 - Stored Routines & Subqueries
 - [ ] 21.4 - Projeto - Vocabulary Booster
 
-##### Bloco 22: Normalização e Modelagem de Banco de Dados
+##### Bloco 21: Normalização e Modelagem de Banco de Dados
 - [ ] 22.1 - Transformando ideias em um modelo de banco de dados
 - [ ] 22.2 - Normalização, Formas Normais e Dumps
 - [ ] 22.3 - Transformando ideias em um modelo de banco de dados - Parte 2
 - [ ] 22.4 - Projeto - One For All
 
-##### Bloco 23: Introdução ao MongoDB
+##### Bloco 22: Introdução ao MongoDB
 - [ ] 23.1 - Introdução - NoSQL
 - [ ] 23.1 - MongoDB - Introdução
 - [ ] 23.2 - Filter Operators
 - [ ] 23.3 - Projeto - Data Flights
 
-##### Bloco 24: MongoDB: Updates Simples e Complexos
+##### Bloco 23: MongoDB: Updates Simples e Complexos
 - [ ] 24.1 - Updates Simples
 - [ ] 24.2 - Updates Complexos - Arrays - Parte 1
 - [ ] 24.3 - Updates Complexos - Arrays - Parte 2
 - [ ] 24.4 - Projeto - Commerce
 
-##### Bloco 25: MongoDB: Aggregation Framework
+##### Bloco 24: MongoDB: Aggregation Framework
 - [ ] 25.1 - Aggregation Framework - Parte 1
 - [ ] 25.2 - Aggregation Framework - Parte 2
 - [ ] 25.3 - Projeto - Aggregations
 
-##### Bloco 26: Introdução ao desenvolvimento Web com NodeJS
+##### Bloco 25: Introdução ao desenvolvimento Web com NodeJS
 - [ ] 26.1 - Intro - NodeJS
 - [ ] 26.1 - NodeJS - Introdução
 - [ ] 26.2 - NodeJS - Fluxo Assíncrono
@@ -177,7 +177,7 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [ ] 26.5 - Praticando Express
 - [ ] 26.6 - Projeto - Talker manager
 
-##### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful]
+##### Bloco 26: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
 - [ ] 27.1 - Introdução - Arquitetura de Software
 - [ ] 27.1 - Arquitetura de Software - Camada de Model
 - [ ] 27.2 - Arquitetura de Software - Camada de Controller e Service
@@ -185,68 +185,68 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [ ] 27.4 - Arquitetura de Software - Testando as Camadas
 - [ ] 27.5 - Projeto - Store Manager
 
-##### Bloco 28: Autenticação e Upload de Arquivos
+##### Bloco 27: Autenticação e Upload de Arquivos
 - [ ] 28.1 - NodeJS - JWT - (JSON Web Token)
 - [ ] 28.2 - NodeJS - Upload de arquivos com Multer
 - [ ] 28.3 - NodeJS - Testando APIs com Testes de Integração
 - [ ] 28.4 - Projeto - Cookmaster
 
-##### Bloco 29: Deployment
+##### Bloco 28: Deployment
 - [ ] 29.1 - Introdução - Deploy
 - [ ] 29.1 - Infraestrutura - Deploy com Heroku
 - [ ] 29.2 - Deploy - Gerenciadores de Processos
 - [ ] 29.3 - Projeto - Stranger Things
 
-##### Bloco 30: Arquitetura: SOLID e ORM
+##### Bloco 29: Arquitetura: SOLID e ORM
 - [ ] 30.1 - Arquitetura - Princípios SOLID
 - [ ] 30.2 - ORM - Interface da aplicação com o banco de dados
 - [ ] 30.3 - ORM - Associations
 - [ ] 30.4 - Boas práticas na escrita de testes
 - [ ] 30.5 - Projeto - API de Blogs
 
-##### Bloco 31: Sockets
+##### Bloco 30: Sockets
 - [ ] 31.1 - Sockets - TCP/UDP & NET
 - [ ] 31.2 - Sockets - Socket.io
 - [ ] 31.3 - Projeto - Webchat
 
-##### Bloco 32: Projeto Trybeer II
+##### Bloco 31: Projeto Trybeer II
 - [ ] 32.1 - Projeto - Trybeer v2
 
 ## Ciência da Computação
 
-##### Bloco 33: Arquitetura de Computadores e Redes
+##### Bloco 32: Arquitetura de Computadores e Redes
 - [ ] 33.1 - Introdução - Ciência da Computação
 - [ ] 33.2 - Arquitetura de Computadores
 - [ ] 33.3 - Arquitetura de redes
 - [ ] 33.4 - Redes de computadores, ferramentas e segurança
 - [ ] 33.5 - Projeto - Explorando os protocolos
 
-##### Bloco 34: Introdução à Python e Raspagem de Dados da Web
+##### Bloco 33: Introdução à Python e Raspagem de Dados da Web
 - [ ] 34.1 - Aprendendo Python
 - [ ] 34.2 - Entrada e Saída de dados
 - [ ] 34.3 - Raspagem de Dados
 - [ ] 34.4 - Testes
 - [ ] 34.5 - Projeto - Tech news
 
-##### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto
+##### Bloco 34: Programação Orientada a Objetos e Padrões de Projeto
 - [ ] 35.1 - Introdução à programação orientada a objetos
 - [ ] 35.2 - Herança, Composição e Interfaces
 - [ ] 35.3 - Padrões de projeto
 - [ ] 35.4 - Projeto - Relatórios de Estoque
 
-##### Bloco 36: Algoritmos e Estrutura de Dados
+##### Bloco 35: Algoritmos e Estrutura de Dados
 - [ ] 36.1 - Complexidade de Algoritmos
 - [ ] 36.2 - Recursividade e Estratégias para solução de problemas
 - [ ] 36.3 - Algoritmos de ordenação e busca
 - [ ] 36.4 - Projeto - Algoritmos
 
-##### Bloco 37: Estrutura de Dados: Hash e Set
+##### Bloco 36: Estrutura de Dados: Hash e Set
 - [ ] 37.1 - Arrays
 - [ ] 37.2 - Hashmap e Dict
 - [ ] 37.3 - Set
 - [ ] 37.4 - Projeto - Restaurant Orders
 
-##### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas
+##### Bloco 37: Estrutura de Dados: Pilhas, Filas e Listas
 - [ ] 38.1 - Nó e Listas Encadeadas
 - [ ] 38.2 - Deque
 - [ ] 38.3 - Pilhas

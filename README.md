@@ -85,8 +85,8 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 11.1 - Introdução - Front-end
 - [x] 11.1 - Introdução - React
 - [x] 11.1 - 'Hello, world!' no React!
-- [ ] 11.2 - Componentes React
-- [ ] 11.3 - Projeto - Movie Cards Library
+- [x] 11.2 - Componentes React
+- [x] 11.3 - Projeto - Movie Cards Library
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 - [ ] 12.1 - Componentes com estado e eventos

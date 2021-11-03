@@ -86,27 +86,27 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 11.1 - Introdução - React
 - [x] 11.1 - 'Hello, world!' no React!
 - [x] 11.2 - Componentes React
-- [x] 11.3 - Projeto - Movie Cards Library
+- [x] 11.3 - [Projeto - Movie Cards Library](https://github.com/tryber/sd-015-a-project-movie-cards-library/pull/8)
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
-- [ ] 12.1 - Componentes com estado e eventos
-- [ ] 12.2 - Formulários no React
-- [ ] 12.3 - Projeto - Movie Cards Library Stateful
+- [x] 12.1 - Componentes com estado e eventos
+- [x] 12.2 - Formulários no React
+- [x] 12.3 - [Projeto - Tryunfo](https://github.com/tryber/sd-015-a-project-tryunfo/pull/52)
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
-- [ ] 13.1 - Ciclo de vida de componentes
-- [ ] 13.2 - React Router
-- [ ] 13.3 - Projeto - Movie Cards Library CRUD
+- [x] 13.1 - Ciclo de vida de componentes
+- [x] 13.2 - React Router
+- [x] 13.3 - [Projeto - Trybetunes](https://github.com/tryber/sd-015-a-project-trybetunes/pull/3)
 
 ##### Bloco 13: Metodologias Ágeis
-- [ ] 14.1 - Metodologias Ágeis
-- [ ] 14.2 - Projeto - Frontend Online Store
+- [x] 14.1 - Metodologias Ágeis
+- [x] 14.2 - [Projeto - Frontend Online Store](https://github.com/tryber/sd-015-a-project-frontend-online-store/pull/523)
 
 ##### Bloco 14: Testes automatizados com React Testing Library
-- [ ] 15.1 - RTL - Primeiros passos
-- [ ] 15.2 - RTL - Mocks e Inputs
-- [ ] 15.3 - RTL - Testando React Router
-- [ ] 15.4 - Projeto - Testes em React
+- [x] 15.1 - RTL - Primeiros passos
+- [x] 15.2 - RTL - Mocks e Inputs
+- [x] 15.3 - RTL - Testando React Router
+- [x] 15.4 - Projeto - Testes em React
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 - [ ] 16.1 - Introdução ao Redux - O estado global da aplicação

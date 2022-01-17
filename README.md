@@ -79,7 +79,7 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 10.3 - Jest - Simulando comportamentos
 - [x] 10.4 - Projeto - [Jest Assíncrono e Mocking](https://github.com/tryber/sd-015-a-project-jest/pull/5)
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :white_check_mark:
 
 ##### Bloco 10-B: Introdução à React
 - [x] 11.1 - Introdução - Front-end
@@ -109,26 +109,26 @@ Contém todas as atividades desenvolvidas por __[Caio Lima](https://www.linkedin
 - [x] 15.4 - Projeto - Testes em React
 
 ##### Bloco 15: Gerenciamento de estado com Redux
-- [ ] 16.1 - Introdução ao Redux - O estado global da aplicação
-- [ ] 16.2 - Usando o Redux no React
-- [ ] 16.3 - Usando o Redux no React - Prática
-- [ ] 16.4 - Usando o Redux no React - Actions Assíncronas
-- [ ] 16.5 - Testes síncronos com React-Redux
-- [ ] 16.6 - Projeto - Tabela com filtros de dados
+- [x] 16.1 - Introdução ao Redux - O estado global da aplicação
+- [x] 16.2 - Usando o Redux no React
+- [x] 16.3 - Usando o Redux no React - Prática
+- [x] 16.4 - Usando o Redux no React - Actions Assíncronas
+- [x] 16.5 - Testes síncronos com React-Redux
+- [x] 16.6 - Projeto - Tabela com filtros de dados
 
 ##### Bloco 16: Projeto Jogo de Trivia
-- [ ] 17.1 - Projeto - Jogo de Trivia
+- [x] 17.1 - Projeto - Jogo de Trivia
 
 ##### Bloco 17: Context API e React Hooks
-- [ ] 18.1 - Context API do React
-- [ ] 18.2 - React Hooks - useState e useContext
-- [ ] 18.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [x] 18.1 - Context API do React
+- [x] 18.2 - React Hooks - useState e useContext
+- [x] 18.3 - React Hooks - useEffect e Hooks customizados
+- [x] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
 
 ##### Bloco 18: Projeto App de Receitas
-- [ ] 19.1 - Projeto - App de Receitas
+- [x] 19.1 - Projeto - App de Receitas
 
-## Desenvolvimento Back-end 
+## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 19: Introdução à SQL
 - [ ] 20.1 - Introdução - Back-end
